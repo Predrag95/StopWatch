@@ -1,4 +1,4 @@
-# StopWatch
+# StopWatch 
 
 Nice little project where I played with HTML/CSS/JavaScript
 
